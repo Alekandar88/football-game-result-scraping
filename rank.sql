@@ -1,4 +1,4 @@
-/*
+﻿/*
  Navicat Premium Data Transfer
 
  Source Server         : localhost
@@ -18,7 +18,7 @@ SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 
 -- ----------------------------
--- Table structure for rank
+-- Table structure for rank 
 -- ----------------------------
 DROP TABLE IF EXISTS `rank`;
 CREATE TABLE `rank`  (
